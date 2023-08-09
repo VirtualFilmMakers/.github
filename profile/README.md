@@ -37,14 +37,14 @@
 
 ## 💪 역할
 -기획
-| 김시애나 | 이성균 | ?금식 | 
+| 김시애나 | 이성균 | 정금식 | 
 |:---------|:---------|:---------|
 | [sienakim](https://github.com/sienakim) | [seongkyunlee](https://github.com/seongkyunlee) | [?금식](https://github.com) |
 
 <br>
 
 -모델링
-| 이준호 |
+| 준호 |
 |:---------|
 | [Janya15](https://github.com/Janya15) |
 
