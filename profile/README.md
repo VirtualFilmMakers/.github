@@ -39,12 +39,12 @@
 -기획
 | 김시애나 | 이성균 | 정금식 | 
 |:---------|:---------|:---------|
-| [sienakim](https://github.com/sienakim) | [seongkyunlee](https://github.com/seongkyunlee) | [?금식](https://github.com) |
+| [sienakim](https://github.com/sienakim) | [seongkyunlee](https://github.com/seongkyunlee) | [정금식](https://github.com) |
 
 <br>
 
 -모델링
-| 준호 |
+| 박준호 |
 |:---------|
 | [Janya15](https://github.com/Janya15) |
 
