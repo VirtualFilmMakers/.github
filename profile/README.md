@@ -39,7 +39,7 @@
 -기획
 | 김시애나 | 이성균 | 정금식 | 
 |:---------|:---------|:---------|
-| [sienakim](https://github.com/sienakim) | [seongkyunlee](https://github.com/seongkyunlee) | [정금식](https://github.com) |
+| [sienakim](https://github.com/sienakim) | [seongkyunlee](https://github.com/seongkyunlee) | [정금식](https://github.com/GEUMSIK2) |
 
 <br>
 
